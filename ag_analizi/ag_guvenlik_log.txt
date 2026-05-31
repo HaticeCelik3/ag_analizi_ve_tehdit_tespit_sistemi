@@ -1,0 +1,18 @@
+2026-04-08 12:32:23,146 - INFO - Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Can not load face (unknown file format; error code 0x2)
+2026-04-08 12:32:23,275 - INFO - Failed to extract font properties from /usr/share/fonts/opentype/cantarell/Cantarell-VF.otf: Can not load face (SFNT font table missing; error code 0x8e)
+2026-04-08 12:32:23,389 - INFO - generated new fontManager
+2026-04-08 12:34:51,471 - INFO - Ağ taraması tamamlandı, cihazlar.json güncellendi.
+2026-04-08 12:35:05,984 - INFO - Ağ taraması tamamlandı, cihazlar.json güncellendi.
+2026-04-08 12:58:53,294 - INFO - Ağ taraması tamamlandı, cihazlar.json güncellendi.
+2026-04-08 13:09:20,832 - INFO - Ağ taraması tamamlandı, cihazlar.json güncellendi.
+2026-04-08 13:16:03,468 - INFO - Ağ taraması tamamlandı, cihazlar.json güncellendi.
+2026-04-08 13:18:36,344 - INFO - Ağ taraması tamamlandı, cihazlar.json güncellendi.
+2026-04-08 13:23:10,047 - INFO - Ağ taraması tamamlandı, cihazlar.json güncellendi.
+2026-04-08 13:23:35,147 - INFO - Ağ taraması tamamlandı, cihazlar.json güncellendi.
+2026-04-08 13:23:41,194 - INFO - Ağ taraması tamamlandı, cihazlar.json güncellendi.
+2026-04-08 13:26:40,693 - INFO - Ağ taraması tamamlandı, cihazlar.json güncellendi.
+2026-04-08 13:28:15,515 - INFO - Ağ taraması tamamlandı, cihazlar.json güncellendi.
+2026-04-08 13:28:35,486 - INFO - Ağ taraması tamamlandı, cihazlar.json güncellendi.
+2026-04-08 13:28:45,723 - INFO - Ağ taraması tamamlandı, cihazlar.json güncellendi.
+2026-04-08 13:30:21,160 - INFO - Ağ taraması tamamlandı, cihazlar.json güncellendi.
+2026-04-08 13:31:43,901 - INFO - Ağ taraması tamamlandı, cihazlar.json güncellendi.
